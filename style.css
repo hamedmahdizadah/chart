@@ -1,0 +1,60 @@
+body{
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+div.one{
+    display: flex;
+    border-radius: 13px;
+    overflow: hidden;
+    width: 580px;
+    background:  hsl(210, 46%, 95%)  ;
+}
+img{
+    width: 200px;
+    height: 390px;
+}
+div.af{
+    font-family: 'Manrope', sans-serif;;
+   
+    padding: 17px;
+
+}
+h1{
+    font-weight: 700;
+    font-size: 19px;
+}
+p.nx{
+    font-weight: 500;
+    font-size: 13px;
+    color: hsl(212, 23%, 69%);
+
+}
+p.s1{
+    font-weight: 700;
+    font-size: 14px;
+}
+p.s2{
+    font-weight: 400;
+    font-size: 13px;
+    color:  hsl(212, 23%, 69%);
+
+}
+img.ul{
+    
+   
+   border-radius: 100%;
+    
+    width: 25px;
+    height: 25px;
+}
+p.end{
+    display: flex;
+    
+
+}
+img.ul{
+    width: 25px;
+    height: 25px;
+}
